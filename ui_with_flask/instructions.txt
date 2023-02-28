@@ -1,0 +1,5 @@
+// to install Flask -> sudo pip3 install Flask
+
+Now if you're using this UI the code for connection is included in the code.
+
+// To start the server -> python3 app.py
