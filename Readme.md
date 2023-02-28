@@ -33,3 +33,6 @@ To run this project, you'll need the following:
 2. Open a web browser and go to http://localhost:5000.
 3. Click the "Start Rain Detection" button to start the rain detection process.
 4. If rain is detected, the device will automatically cover the umbrella with a plastic bag
+
+
+# Main Directory /ui_with_flask
