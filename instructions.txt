@@ -1,0 +1,2 @@
+---- First connecting Raspberry Pi to the arduino ---- 
+--> Go to /code_for_connection for the code
