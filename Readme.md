@@ -20,5 +20,16 @@ To run this project, you'll need the following:
 4. Upload the Arduino sketch to the Arduino board.
 5. Install the necessary Python libraries by running the following command in the terminal:
 
-```html
-<p>pip install Flask pyserial</p>
+    ```python
+    pip install Flask pyserial
+
+
+### Usage 
+1. Run the Python script by executing the following command in the terminal:
+
+    ```python
+    python3 app.py
+
+2. Open a web browser and go to http://localhost:5000.
+3. Click the "Start Rain Detection" button to start the rain detection process.
+4. If rain is detected, the device will automatically cover the umbrella with a plastic bag
